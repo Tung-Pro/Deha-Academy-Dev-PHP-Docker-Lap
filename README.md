@@ -19,7 +19,7 @@ Edit .env: </br>
 
 APP_CODE_PATH_HOST=../app
 
-NGINX_HOST_HTTP_PORT=8989
+NGINX_HOST_HTTP_PORT=8686
 
 ## Sửa NGINX 
 
