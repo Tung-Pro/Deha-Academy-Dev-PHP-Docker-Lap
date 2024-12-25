@@ -1,7 +1,9 @@
-# Deha-Academy-Docker-Lap1
+Nguyễn Văn Tùng
+
+Deha-Academy-Docker-Lap1
 
 ## Getting Started
-`git clone https://github.com/to4sn1311/Deha-Academy-Docker-Lap1.git ` </br>
+`git clone https://github.com/Tung-Pro/Deha-Academy-Docker-Lap1 ` </br>
 
 ` cd Deha-Academy-Docker-Lap1 ` </br>
 
@@ -9,7 +11,7 @@
 
 `cd laradock`
 
-## Create .env 
+## Tạo .env 
 
 `cp .env.example .env`</br>
 
@@ -19,7 +21,7 @@ APP_CODE_PATH_HOST=../app
 
 NGINX_HOST_HTTP_PORT=8989
 
-## Modified NGINX 
+## Sửa NGINX 
 
 `cd nginx/sites` </br>
 
@@ -27,7 +29,7 @@ Edit default.conf: </b>
 
 root /var/www/laravel/public;
 
-## Create Lavavel and index.php
+## Tạo Lavavel và index.php
 
 `cd laradock`
 
@@ -41,13 +43,11 @@ root /var/www/laravel/public;
 
 index.php:
 
-`<?php 
-Hello, World
-?>`
+Hello Docker!
 
 `exit`
 
-## Use Docker image: nginx, php, mysql, use Dockerfile and Docker compose to create an environment to run PHP applications.
+## Sử dụng Docker image: nginx, php, mysql, sử dụng Dockerfile và Docker compose tạo môi trường chạy ứng dụng PHP.
 `docker-compose down`
 
 `cd ~/Deha-Academy-Docker-Lap1`
@@ -56,10 +56,9 @@ Hello, World
 
 http://localhost:5000
 
-![image](https://github.com/user-attachments/assets/918f448a-2f15-4c1a-93b5-a7260294df96)
+![image](https://github.com/user-attachments/assets/21d878ec-0201-4beb-bff4-3a486dce034c)
 
-
-## Use Laradock to create a Laravel running environment, change the configuration (port, PHP version) of Laradock
+## Sử dụng Laradock tạo môi trường chạy Laravel, thay đổi được cấu hình (port, version PHP) Laradock.
 
 `docker-compose down`
 
@@ -67,8 +66,9 @@ http://localhost:5000
 
 `docker-compose up -d nginx`
 
-http://localhost:8989
+http://localhost:8686
 
-![image](https://github.com/user-attachments/assets/916cea7a-ab76-4670-b055-401ab2102a41)
+![image](https://github.com/user-attachments/assets/e995ba84-da56-4a3d-adfa-523605e5674e)
+
 
 
