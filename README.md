@@ -11,9 +11,9 @@ Deha-Academy-Dev-PHP-Docker-Lap
 
 ## Tạo .env 
 
-`cp .env.example .env`</br>
+`cp .env.example .env`
 
-Edit .env: </br>
+Edit .env: 
 
 APP_CODE_PATH_HOST=../app
 
