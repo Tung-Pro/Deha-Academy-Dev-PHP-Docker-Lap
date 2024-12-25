@@ -3,11 +3,11 @@ Nguyễn Văn Tùng
 Deha-Academy-Dev-PHP-Docker-Lap
 
 ## Getting Started
-`git clone https://github.com/Tung-Pro/Deha-Academy-Dev-PHP-Docker-Lap ` </br>
+`git clone https://github.com/Tung-Pro/Deha-Academy-Dev-PHP-Docker-Lap ` 
 
-` cd Deha-Academy-Docker-Lap1 ` </br>
+` cd Deha-Academy-Dev-PHP-Docker-Lap ` 
 
-` git clone https://github.com/Laradock/laradock.git ` </br>
+` git clone https://github.com/Laradock/laradock.git `
 
 `cd laradock`
 
