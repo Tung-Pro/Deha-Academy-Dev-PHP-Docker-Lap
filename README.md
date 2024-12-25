@@ -1,9 +1,9 @@
 Nguyễn Văn Tùng
 
-Deha-Academy-Docker-Lap1
+Deha-Academy-Dev-PHP-Docker-Lap
 
 ## Getting Started
-`git clone https://github.com/Tung-Pro/Deha-Academy-Docker-Lap1 ` </br>
+`git clone https://github.com/Tung-Pro/Deha-Academy-Dev-PHP-Docker-Lap ` </br>
 
 ` cd Deha-Academy-Docker-Lap1 ` </br>
 
