@@ -7,8 +7,6 @@ Deha-Academy-Dev-PHP-Docker-Lap
 
 ` cd Deha-Academy-Dev-PHP-Docker-Lap ` 
 
-` git clone https://github.com/Laradock/laradock.git `
-
 `cd laradock`
 
 ## Tạo .env 
